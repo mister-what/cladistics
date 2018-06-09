@@ -7,18 +7,52 @@
 
 
 ```yaml
-- Arthropoda (Gliederfüßer)
-  - Insecta (Insekten)
-    - Coleoptera (Käfer)
-	    - Coccinellidae(Marienkäfer)
-	      - Harmonia axyridis (Asiatischer Marienkäfer):
-		    - Calvia
-          - Calvia decemguttata (Licht Marienkäfer)
-        - Adalia
-          - Adalia decempunctata (Zehnpunkt-Marienkäfer)
-          
-  
-		
+---
+Arachnidae:
+  Araneae(Webspinnen):
+    Philodromidae(Laufspinnen):
+    - Philodromus
+    Salticidae (Springspinnen):
+    - Evarcha sp.
+    Thomisidae(Krabbenspinnen):
+    - Thomisidae sp.
+Arthropoda(Gliederfuesser):
+  Crustacea:
+    Malacostraca:
+      Isopoda(Asseln):
+        Oniscidae(Landasseln):
+          Armadilidium:
+          - Armadillidium opacum(Rollassel)
+          Oniscus:
+          - Oniscus asellus (Mauerassel)
+  Insecta(Insekten):
+    Hymnoptera (Hautflügler):
+      Cynipidae (Gallwespen):
+        Cynips:
+        - Cynips quercusfolii (Eichengallwespe)
+    Coleoptera(Käfer):
+      Cantharidae (Weichkäfer):
+        Cantharis:
+        - Cantharis pellucida
+      Coccinellidae(Marienkäfer):
+        Adalia:
+        - Adalia decempunctata (Zehnpunkt-Marienkäfer)
+        Calvia:
+        - Calvia decemguttata (Licht Marienkäfer)
+        Harmonia:
+        - Harmonia axyridis (Asiatischer Marienkäfer)
+  Myriapoda:
+    Diplopoda:
+      Julidae:
+        Ommatoiulius:
+        - Ommatoiulus sabulosus (Sandschnurfüßer)
+      Glomeridae:
+        Glomeris:
+        - Glomeris marginata (Saftkugler)
+      Polydesmidae:
+        Polydesmus:
+        - Polydesmus angustus
+	
 ```
 
 - [x] Arthropoda( Gliederfüßer),Insecta( insekten), Coleoptera(Käfer), Coccinellidae (Marienkäfer), Calvia, Calvia decemguttata (Licht Marienkäfer):
