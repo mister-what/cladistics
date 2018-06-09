@@ -52,7 +52,6 @@ Arthropoda(Gliederfuesser):
       Polydesmidae:
         Polydesmus:
         - Polydesmus angustus
-	
 ```
 
 - [x] Arthropoda( Gliederfüßer),Insecta( insekten), Coleoptera(Käfer), Coccinellidae (Marienkäfer), Calvia, Calvia decemguttata (Licht Marienkäfer):
