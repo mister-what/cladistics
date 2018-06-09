@@ -1,10 +1,11 @@
 # Protokoll 					
-## Zoologische Bestimmungsexkursion
+___Zoologische Bestimmungsexkursion___
 
 - am _26.05.2018_ von _13.30 - 16.00_ Uhr
 - Protkollantin: __Julie Jost__
 - Ort: _Billinghäuser Schlucht_ - feuchter Waldrand, nährstoffreich, kalkreiches Ausgangsgestein, kleines Gewässer am Waldrand,Wetter: warm und Sonnig 
 
+## Klassifizierte Arten
 
 ```yaml
 ---
@@ -54,6 +55,8 @@ Arthropoda(Gliederfuesser):
         - Polydesmus angustus
 ```
 
+## Done
+
 - [x] Arthropoda( Gliederfüßer),Insecta( insekten), Coleoptera(Käfer), Coccinellidae (Marienkäfer), Calvia, Calvia decemguttata (Licht Marienkäfer):
 
 - [x] Arthropoda( Gliederfüßer),Insecta( insekten), Coleoptera(Käfer), Coccinellidae (Marienkäfer), Adalia, Adalia decempunctata (Zehnpunkt-Marienkäfer):
@@ -78,6 +81,10 @@ Arthropoda(Gliederfuesser):
 
 - [x] Arthropoda, Myriapoda, Diplopoda, Julidae, Ommatoiulius, Ommatoiulus sabulosus (Sandschnurfüßer):
 
+## Todo:
+
+### Einträge
+
 - [ ] Mollusca, Gastropoda, Pulmonata, Stylommatophora, Helicidae, Cepeae, Cepea nemoralis (Hain-Bänderschnecke):
 
 - [ ] Aranae:Entelegyne:Lycosidae(Wolfspinnen): Pardosa lugubris 
@@ -89,44 +96,38 @@ Arthropoda(Gliederfuesser):
      - Kümmert sich sogar um artfremde Junge wenn Kokon ausgetauscht wird.
 
 
-Notiophilus sp. (Eilkäfer; Fam. Laufkäfer)
-Cantharis rufa (Roter Fliegenkäfer; Fam. Weichkäfer)
-Araniella cucurbitina (Kürbisspinne; Fam. Echte Radnetzspinnen)
-Tachypodoiulus niger (Schwarzer Schnurfüßer; Fam. Julidae; Klasse Diplopoda)
-Oiceoptoma (Rothalsige Silphe; Fam. Aaskäfer/Silphidae)
-Pisaura mirabilis (Listspinne; Fam. Raubspinnen)
-Matellina segmentata (Herbstspinne; Fam. Dickkieferspinnen)
-Arianta arbustorum (Gefleckte Schnirkelschnecke; Fam. Helicidae)
-Andrena sp. (Sandbienen; Fam. Apidae)
-Oedemera femoralis (Fam. Oedemeridae/Scheinbockkäfer)
-Fam. Psychidae/Sackträger 
-Necrophorus sp. (Totengräber; Fam. Siphidae/Aaskäfer)
-Ancistronycha cyanipennis (Fam. Cantharidae)
-Apoderus coryli (Haselblattroller; Fam. Atellabidae/Blattroller)
-Malachius bipustulatus (Zweifleckiger Zipfelkäfer; Fam. Melyridae)
-Rhogogaster sp. (Fam. Tenthredinidae/Echte Blattwespen)
-Panorpa communis (Gemeine Skorpionsfliege; Fam. Panorpidae
+### Kladistik
 
+- [ ] Notiophilus sp. (Eilkäfer; Fam. Laufkäfer)
 
+- [ ] Cantharis rufa (Roter Fliegenkäfer; Fam. Weichkäfer)
 
+- [ ] Araniella cucurbitina (Kürbisspinne; Fam. Echte Radnetzspinnen)
 
+- [ ] Tachypodoiulus niger (Schwarzer Schnurfüßer; Fam. Julidae; Klasse Diplopoda)
 
-Notiophilus sp. (Eilkäfer; Fam. Laufkäfer)
-Cantharis rufa (Roter Fliegenkäfer; Fam. Weichkäfer)
-Araniella cucurbitina (Kürbisspinne; Fam. Echte Radnetzspinnen)
-Tachypodoiulus niger (Schwarzer Schnurfüßer; Fam. Julidae; Klasse Diplopoda)
-Oiceoptoma (Rothalsige Silphe; Fam. Aaskäfer/Silphidae)
-Pisaura mirabilis (Listspinne; Fam. Raubspinnen)
-Matellina segmentata (Herbstspinne; Fam. Dickkieferspinnen)
-Arianta arbustorum (Gefleckte Schnirkelschnecke; Fam. Helicidae)
-Andrena sp. (Sandbienen; Fam. Apidae)
-Oedemera femoralis (Fam. Oedemeridae/Scheinbockkäfer)
-Fam. Psychidae/Sackträger 
-Necrophorus sp. (Totengräber; Fam. Siphidae/Aaskäfer)
-Ancistronycha cyanipennis (Fam. Cantharidae)
-Apoderus coryli (Haselblattroller; Fam. Atellabidae/Blattroller)
-Malachius bipustulatus (Zweifleckiger Zipfelkäfer; Fam. Melyridae)
-Rhogogaster sp. (Fam. Tenthredinidae/Echte Blattwespen)
-Panorpa communis (Gemeine Skorpionsfliege; Fam. Panorpidae
+- [ ] Oiceoptoma (Rothalsige Silphe; Fam. Aaskäfer/Silphidae)
 
+- [ ] Pisaura mirabilis (Listspinne; Fam. Raubspinnen)
 
+- [ ] Matellina segmentata (Herbstspinne; Fam. Dickkieferspinnen)
+
+- [ ] Arianta arbustorum (Gefleckte Schnirkelschnecke; Fam. Helicidae)
+
+- [ ] Andrena sp. (Sandbienen; Fam. Apidae)
+
+- [ ] Oedemera femoralis (Fam. Oedemeridae/Scheinbockkäfer)
+
+- [ ] Fam. Psychidae/Sackträger 
+
+- [ ] Necrophorus sp. (Totengräber; Fam. Siphidae/Aaskäfer)
+
+- [ ] Ancistronycha cyanipennis (Fam. Cantharidae)
+
+- [ ] Apoderus coryli (Haselblattroller; Fam. Atellabidae/Blattroller)
+
+- [ ] Malachius bipustulatus (Zweifleckiger Zipfelkäfer; Fam. Melyridae)
+
+- [ ] Rhogogaster sp. (Fam. Tenthredinidae/Echte Blattwespen)
+
+- [ ] Panorpa communis (Gemeine Skorpionsfliege; Fam. Panorpidae
